@@ -1,5 +1,5 @@
 # DesignPatterns
-Design Pattern Course and Head First Design Patterns book implementation
+Design Pattern Course and Head First Design Patterns book implementations and some examples.
 
 ## Includes
   - Abstract Factory Pattern
